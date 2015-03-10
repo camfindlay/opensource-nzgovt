@@ -2,13 +2,13 @@
 
 
 
-Cam Findlay[^1]
+Cam Findlay<sup>1</sup>
 
 
 
 
  
-[^1]:(Community Awesomeness Manager for the SilverStripe FOSS Community, SilverStripe Ltd.)
+<sup>1</sup>:(Community Awesomeness Manager for the SilverStripe FOSS Community, SilverStripe Ltd.)
 
 #### Abstract
 
