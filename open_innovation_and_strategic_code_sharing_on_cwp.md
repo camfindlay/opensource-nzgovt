@@ -191,5 +191,5 @@ Wenger, E., McDermott, R. A., & Snyder, W. (2002). *Cultivating communities of p
 
 # Appendix A: Code sharing workshop outcomes paper
 
-[CWP better code sharing workshop: Information collected from participants October 2014 (PDF, 995Kb)](/assets/pdf/CWP better code sharing workshop - Information collected.pdf)
+[CWP better code sharing workshop: Information collected from participants October 2014 (PDF, 995Kb)](/assets/pdf/CWP better code sharing workshop - Information collected.pdf?raw=true)
 
