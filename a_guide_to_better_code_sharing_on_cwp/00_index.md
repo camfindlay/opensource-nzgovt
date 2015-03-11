@@ -11,7 +11,8 @@ The following guide will set out a series of best practices, many of which have 
 7. [The process of sharing code](07_the_process_of_sharing_code.md)
 8. [Glossary](08_glossary.md)
 9. [Creative commons attribution and references](09_cc_and_references.md)
-10. 
+10. [Appendix A: Code sharing workshop outcomes paper](10_appendix_a.md)
+
 
 
  

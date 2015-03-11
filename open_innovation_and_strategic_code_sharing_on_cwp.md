@@ -185,10 +185,11 @@ The Cathedral and the Bazaar. (2015, January 21). In *Wikipedia, The Free Encycl
 
 von Krogh, G., Ichijo, K., & Nonaka, I. (2000). *Enabling knowledge creation: How to unlock the mystery of tacit knowledge and release the power of innovation.* New York, NY: Oxford University Press.
 
-Waugh, P. (2011). *Open government, what is it really?* Retieved from [http://opensource.com/government/11/11/open-government-what-it-really/](http://opensource.com/government/11/11/open-government-what-it-really/)
+Waugh, P. (2011). *Open government, what is it really?* Retrieved from [http://opensource.com/government/11/11/open-government-what-it-really/](http://opensource.com/government/11/11/open-government-what-it-really/)
 
 Wenger, E., McDermott, R. A., & Snyder, W. (2002). *Cultivating communities of practice: A guide to managing knowledge*. Boston, MS: Harvard Business School Press.
 
 # Appendix A: Code sharing workshop outcomes paper
-Link to come…
+
+[CWP better code sharing workshop: Information collected from participants October 2014 (PDF, 995Kb)](/assets/pdf/CWP better code sharing workshop - Information collected.pdf)
 
