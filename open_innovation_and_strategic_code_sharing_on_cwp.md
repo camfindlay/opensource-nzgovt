@@ -92,11 +92,11 @@ The CWP is clearly a strategically valuable offering for agencies looking to imp
 
 Based on this strategic view, a set of principles has been developed based on input from agencies and vendors that attended the code sharing workshop ([See Appendix A](#appendix-a-code-sharing-workshop-outcomes-paper)), and research into code sharing and open innovation in government which appears to have a growing body of literature. Most of the principles below are in fact centred around changes process rather than any specific technological innovation. As Pardo et al. (2001) put it "knowledge about practice in a technological environment is not always about technology. The problems of this sort of practice remain complex human and organi[s]ational ones that can be assisted but not solved by technology" (p. A5). Following these principles aims to facilitate the strategic benefits of code sharing and open innovation in the public sector and each agency will need to work through how it goes about implementing these in practice. 
 
-1. **Be open by default **unless a robust business reason relating to privacy or security exists. Aim to release reusable modules under FOSS licenses, on social coding platforms such as GitHub or if kept private on the share CWP GitLab service. 
+1. **Be open by default** unless a robust business reason relating to privacy or security exists. Aim to release reusable modules under FOSS licenses, on social coding platforms such as GitHub or if kept private on the share CWP GitLab service. 
 
 2. When adding new features to digital service delivery, **always check to see if something already exists or could be adapted for your needs**. Ensure a full environmental scan of shared code catalogs maintained by the FOSS community before undertaking new work.
 
-3. Aim to **build new features in a modular way****.** View projects as a set of components rather than a monolithic codebase. You might use the code again in another project or other stakeholders could reuse it. Keeping code lightweight and modular allows more valuable customisations to be built on top of this commodity layer.
+3. Aim to **build new features in a modular way.** View projects as a set of components rather than a monolithic codebase. You might use the code again in another project or other stakeholders could reuse it. Keeping code lightweight and modular allows more valuable customisations to be built on top of this commodity layer.
 
 4. **Release code publicly, early and often** to allow others to contribute and catch bugs early. Use semantic versioning it indicate when code is ready to be used in production. Make code discoverable by submitting these to community module catalogues. 
 
@@ -108,7 +108,7 @@ Based on this strategic view, a set of principles has been developed based on in
 
 8. **Communicate the features you need** to build by discussing them in the FOSS community (unless of course they are sensitive). Where common needs are identified work with other stakeholders (public or private sector) to **share ideas and if appropriate, costs**.
 
-9. **Always test code, report any issues **in the appropriate manner or contacting the code maintainer. This aids in getting bugs fixed promptly and new versions released more quickly. Testing in general is also a good idea, by releasing code in social coding platforms you can often make use of automated testing tools they provide.
+9. **Always test code, report any issues in the appropriate manner** or contacting the code maintainer. This aids in getting bugs fixed promptly and new versions released more quickly. Testing in general is also a good idea, by releasing code in social coding platforms you can often make use of automated testing tools they provide.
 
 10. **See shared code as a public good,** take the long term view, work with others to build a common set of useful commodity features that benefit the public sector, facilitate social outcomes and drive economic growth.
 
