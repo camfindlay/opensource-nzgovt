@@ -78,4 +78,4 @@ The next walkthrough outlines the process that an agency sharing new module code
 
 10. As further work is completed on the shared module code and new versions are released the data held in the addons catalogue will automatically update provided the documentation in the readme file, new release tags and the composer metadata files are updated.
 
-![govt.nz GitHub account screenshot](image_4.png)
+![govt.nz GitHub account screenshot](/assets/images/image_4.png)
