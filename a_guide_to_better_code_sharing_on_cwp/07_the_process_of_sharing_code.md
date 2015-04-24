@@ -45,7 +45,7 @@ The following is a high level walkthrough the process of forking, improving and 
 
 10. Once reviewed, the maintainer will accept the pull request to merge the forked code and the new feature will now be available in the module, ready for a release and to be installed using Composer as is the standard for managing new modules in projects.
 
-![fork and contribution diagram](image_3.png)
+![fork and contribution diagram](/assets/images/image_3.png)
 
 ## 7.4 Packaging and submitting new shared modules
 The next walkthrough outlines the process that an agency sharing new module code might take to make it discoverable by others and able to be installed via the Composer.
