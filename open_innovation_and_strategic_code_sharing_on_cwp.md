@@ -2,7 +2,7 @@
 
 
 
-Cam Findlay<sup>1</sup>
+by Cam Findlay, March 2015<sup>1</sup>
 
 Paper available at: https://github.com/camfindlay/opensource-nzgovt
 
