@@ -4,7 +4,7 @@
 
 Cam Findlay<sup>1</sup>
 
-
+Paper available at: https://github.com/camfindlay/opensource-nzgovt
 
 
  
