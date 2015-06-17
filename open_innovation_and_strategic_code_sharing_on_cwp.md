@@ -8,7 +8,7 @@ Cam Findlay<sup>1</sup>
 
 
  
-<sup>1</sup>:(Community Awesomeness Manager for the SilverStripe FOSS Community, SilverStripe Ltd.)
+<sup>1</sup>:(Community Awesomeness Manager, SilverStripe. E-mail: cam@silverstripe.com)
 
 #### Abstract
 
