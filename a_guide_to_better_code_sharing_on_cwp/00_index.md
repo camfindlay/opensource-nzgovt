@@ -7,6 +7,8 @@ only way of working, therefore while going through the process of workflow adopt
 these practices. Learn how those people engaged in the FOSS community go about these processes, and adapt them where a
 valid argument can be made to do something differently.
 
+An edited version of this guidance is now [officially published on the Common Web Platform website](https://www.cwp.govt.nz/guides/code-sharing/).
+
 1. [Think modular](01_think_modular.md)
 2. [Shared and private code](02_shared_and_private_code.md)
 3. [Licensing and copyright](03_licensing_and_copyright.md)
