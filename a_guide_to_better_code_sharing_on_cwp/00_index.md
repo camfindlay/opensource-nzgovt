@@ -1,6 +1,11 @@
 # A guide to better Code Sharing on the Common Web Platform
 
-The following guide will set out a series of best practices, many of which have been well tested within the SilverStripe CMS and wider FOSS communities for years. This section aims to introduce these practices, tools and approaches to public sector SilverStripe developers working on the CWP that may be new to this open way of working. This is by no means the only way work, therefore while going through the process of workflow adoption you may find a need to deviate from these practices. Learn how those people engaged in the FOSS community go about processes, and adapt these process where a valid argument can be made to do something differently.
+The following guide will set out a series of best practices, many of which have been well tested within the SilverStripe
+CMS and wider FOSS communities for years. This section aims to introduce these practices, tools and approaches to public
+sector SilverStripe developers working on the CWP that may be new to this open way of working. This is by no means the
+only way of working, therefore while going through the process of workflow adoption you may find a need to deviate from
+these practices. Learn how those people engaged in the FOSS community go about these processes, and adapt them where a
+valid argument can be made to do something differently.
 
 1. [Think modular](01_think_modular.md)
 2. [Shared and private code](02_shared_and_private_code.md)
@@ -12,7 +17,3 @@ The following guide will set out a series of best practices, many of which have 
 8. [Glossary](08_glossary.md)
 9. [Creative commons attribution and references](09_cc_and_references.md)
 10. [Appendix A: Code sharing workshop outcomes paper](10_appendix_a.md)
-
-
-
- 
