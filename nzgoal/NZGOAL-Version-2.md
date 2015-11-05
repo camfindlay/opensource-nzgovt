@@ -1,4 +1,4 @@
-**New Zealand** **Government** **Open Access** **and Licensing** **framework** **(NZGOAL)** 
+# **New Zealand** **Government** **Open Access** **and Licensing** **framework** **(NZGOAL)** 
 
 
 
@@ -6,9 +6,6 @@ Version 2
 
 December 2014 										
 
-# 
-
-# 
 
 ISBN 978-0-478-10763-0 (PDF)
 
@@ -16,7 +13,7 @@ ISBN 978-0-478-10764-7 (HTML)
 
 Crown copyright ©. This copyright work is licensed under the Creative Commons Attribution 4.0 International licence. In essence, you are free to copy, distribute and adapt the work, as long as you attribute the work to the New Zealand Government and abide by the other licence terms. To view a copy of this licence, visit [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/). Please note that neither the New Zealand Government emblem nor the New Zealand Government logo may be used in any way which infringes any provision of the [Flags, Emblems, and Names Protection Act 1981](http://www.legislation.govt.nz/act/public/1981/0047/latest/whole.html) or would infringe such provision if the relevant use occurred within New Zealand. Attribution to the New Zealand Government should be in written form and not by reproduction of any emblem or the New Zealand Government logo.
 
-# NZGOAL 2 Changelog - December 2014
+## NZGOAL 2 Changelog - December 2014
 
 Version 1 of NZGOAL was released in 2010. Version 2 was finalised in December 2014. This changelog summarises the changes in version 2:
 
@@ -49,9 +46,8 @@ Version 1 of NZGOAL was released in 2010. Version 2 was finalised in December 20
 - Updating and substantial rewriting of the Appendix "Recommended Copyright and Licensing Statements, and Attribution Statements", in terms of its layout, inclusion of the new HTML 5 code samples and a new paragraph on "Applying a single Creative Commons licence to all or substantial portions of a website" (which cross-refers to NZGOAL Guidance Note 1: Website copyright statements). 
 
 - Other incidental and miscellaneous changes.
-# Contents
 
-
+## Contents
 
 Introduction		5
 
@@ -143,35 +139,29 @@ NZGOAL Review and Release Process Decision Trees	32
 
 Appendix –	Recommended Copyright and Licensing Statements, and Attribution Statements	35
 
-# 
-
-# 
-
-# 
-
-# Introduction
+## Introduction
 
 ### Purpose
 
-State Services agencies generate vast quantities of copyright and non-copyright material. It is widely recognised, in New Zealand and abroad, that significant creative and economic potential may lie dormant in such material when locked up in agencies and not released on terms allowing re-use by others. That potential is two-fold:
+ 1. State Services agencies generate vast quantities of copyright and non-copyright material. It is widely recognised, in New Zealand and abroad, that significant creative and economic potential may lie dormant in such material when locked up in agencies and not released on terms allowing re-use by others. That potential is two-fold:
 
-individuals, non-profit and commercial organisations can leverage this material for creative, cultural and economic growth, improved environmental sustainability, greater productivity, and the wider public benefit; and
+    (a) individuals, non-profit and commercial organisations can leverage this material for creative, cultural and economic growth, improved environmental sustainability, greater productivity, and the wider public benefit; and
 
-experts and others can contribute to improved policy development and more efficient financial performance by government through being able to access, manipulate and provide feedback on such material. 
+    (b) experts and others can contribute to improved policy development and more efficient financial performance by government through being able to access, manipulate and provide feedback on such material. 
 
-NZGOAL provides a means of realising this potential. It:
+ 2. NZGOAL provides a means of realising this potential. It:
 
-sets out a series of open licensing and open access principles, for copyright works and non-copyright material respectively;
+    (a) sets out a series of open licensing and open access principles, for copyright works and non-copyright material respectively;
 
-advocates the use of:	
+    (b) advocates the use of:	
 
-Creative Commons licences for those State Services agencies’ copyright works which are appropriate for release and re-use; and
+        (i) Creative Commons and Open Source licences for those State Services agencies’ copyright works which are appropriate for release and re-use; and
 
-clear “no known rights” statements for non-copyright material released for re-use; and
+        (ii) clear “no known rights” statements for non-copyright material released for re-use; and
 
-sets out a review and release process to guide agencies through the review of works and other material they consider ought to be released for re-use.  
+    (c) sets out a review and release process to guide agencies through the review of works and other material they consider ought to be released for re-use.  
 
-Version 1 of NZGOAL was released in 2010. This is version of 2 of NZGOAL. Primarily it refines and simplifies NZGOAL and updates the code samples, for online releases of Creative Commons licensed works, to HTML 5. It also recommends the Creative Commons 4.0 International licences in preference to the Creative Commons 3.0 New Zealand licences but without requiring any retrospective action in relation to works already licensed under the 3.0 licences. 
+ 3.  Version 1 of NZGOAL was released in 2010. Version of 2 of NZGOAL was released in 2014. This is version 3 of NZGOAL. Primarily it continues to refine and simplify NZGOAL and expands it's scope to provide guidance for the release and reuse of Open Source software copyright material. The licensing considerations of Open Source Software and wider social, cultural and economic benefits of release and reuse of such software is virually identical to those of open data and content. Primary differences include the wider range of licenses used when releasing Open Source Software for reuse by others and the ongoing collaborative process that releasing Open SOurce Software can foster. 
 
 ### Scope
 
