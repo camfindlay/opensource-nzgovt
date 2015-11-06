@@ -175,167 +175,168 @@ Version 1 of NZGOAL was released in 2010. This is version of 2 of NZGOAL. Primar
 
 ### Scope
 
-NZGOAL applies to State Services agencies. “State Services” is the term for a broad range of organisations that serve as instruments of the Crown in respect of the Government of New Zealand. A full list can be found on the State Services Commission website. (Wider State sector and local government agencies are welcome and encouraged to apply it.)
+ 4. NZGOAL applies to State Services agencies. “State Services” is the term for a broad range of organisations that serve as instruments of the Crown in respect of the Government of New Zealand. A full list can be found on the State Services Commission website. (Wider State sector and local government agencies are welcome and encouraged to apply it.)
 
-NZGOAL covers both:
+ 5. NZGOAL covers both:
 
-copyright works; and
+    (a)copyright works; and
 
-non-copyright material,
+    (b) non-copyright material,
 
-1. that are produced by or for such agencies, appropriate for release to the public or sections of the public and which those agencies are entitled to: 
+    that are produced by or for such agencies, appropriate for release to the public or sections of the public and which those agencies are entitled to: 
 
-in the case of copyright works, license (or sub-license) for re-use; and
+    (c) in the case of copyright works, license (or sub-license) for re-use; and
 
-in the case of non-copyright material, release for re-use.
+    (d) in the case of non-copyright material, release for re-use.
 
-NZGOAL does not limit or otherwise affect the obligations of any agency or the rights of any person under the Official Information Act 1982, the Public Records Act 2005, the Privacy Act 1993 or any other legislation. Except for its guidance on anonymisation of datasets and other material which, once stripped of personal information, might be licensed or released, NZGOAL does not apply to personal information. 
+ 6.  NZGOAL does not limit or otherwise affect the obligations of any agency or the rights of any person under the Official Information Act 1982, the Public Records Act 2005, the Privacy Act 1993 or any other legislation. Except for its guidance on anonymisation of datasets and other material which, once stripped of personal information, might be licensed or released, NZGOAL does not apply to personal information. 
 
-While NZGOAL applies to datasets, it does not apply to software which, for example, an agency owns and may wish to release on open source terms. In such circumstances, agencies may wish to use open source software licences (such as the BSD, GPL or MIT licences).
+ 7.  While NZGOAL applies to datasets, it does not apply to software which, for example, an agency owns and may wish to release on open source terms. In such circumstances, agencies may wish to use open source software licences (such as the BSD, GPL or MIT licences).
 
 ### Status
 
-Cabinet has endorsed NZGOAL as guidance for State Services agencies to take into account when releasing their copyright works and non-copyright material publicly for re-use. In particular, Cabinet has:
+ 8. Cabinet has endorsed NZGOAL as guidance for State Services agencies to take into account when releasing their copyright works and non-copyright material publicly for re-use. In particular, Cabinet has:
 
-**directed** all Public Service departments;
+    (a) **directed** all Public Service departments;
 
-**invited** the New Zealand Police, the New Zealand Defence Force, the Parliamentary Counsel Office, and the New Zealand Security Intelligence Service;
+    (b) **invited** the New Zealand Police, the New Zealand Defence Force, the Parliamentary Counsel Office, and the New Zealand Security Intelligence Service;
 
-**agreed** that other State Services agencies (other than school boards of trustees) be strongly encouraged; and
+    (c) **agreed** that other State Services agencies (other than school boards of trustees) be strongly encouraged; and
 
-**invited** the Minister of Education to invite school boards of trustees, 
+    (d) **invited** the Minister of Education to invite school boards of trustees, 
 
-1. to:
+    to:
 
-familiarise themselves with NZGOAL, in its current form and as may be updated from time to time; and 
+    (e) familiarise themselves with NZGOAL, in its current form and as may be updated from time to time; and 
 
-take NZGOAL into account when releasing copyright material and non-copyright material to the public for re-use.
+    (f) take NZGOAL into account when releasing copyright material and non-copyright material to the public for re-use.
 
-NZGOAL's importance was strengthened in August 2011 when Cabinet approved the Declaration on Open and Transparent Government, through which the Government committed to actively releasing high value public data. "Public data" refers to non-personal and unclassified data. Cabinet:
+9.  NZGOAL's importance was strengthened in August 2011 when Cabinet approved the Declaration on Open and Transparent Government, through which the Government committed to actively releasing high value public data. "Public data" refers to non-personal and unclassified data. Cabinet:
 
-**directed** all Public Service departments, the New Zealand Police, the New Zealand Defence Force, the Parliamentary Counsel Office, and the New Zealand Security Intelligence Service;
+    (a) **directed** all Public Service departments, the New Zealand Police, the New Zealand Defence Force, the Parliamentary Counsel Office, and the New Zealand Security Intelligence Service;
 
-**encouraged** other State Services agencies; and
+    (b) **encouraged** other State Services agencies; and
 
-**invited** State Sector agencies,
+    (c) **invited** State Sector agencies,
 
-1. to commit to releasing high value public data actively for re-use, in accordance with the Declaration and New Zealand Data and Information Management Principles, "and in accordance with the NZGOAL Review and Release process".
+    to commit to releasing high value public data actively for re-use, in accordance with the Declaration and New Zealand Data and Information Management Principles, "and in accordance with the NZGOAL Review and Release process".
+
 ### Additional guidance notes
 
-Version 1 of NZGOAL contemplated that guidance notes would be released over time which:
+ 10. Version 1 of NZGOAL contemplated that guidance notes would be released over time which:
 
-explore, in greater detail, some of the issues addressed or raised in NZGOAL; and
+    (a) explore, in greater detail, some of the issues addressed or raised in NZGOAL; and
 
-address operational or technical issues which arise in practice.
+    (b) address operational or technical issues which arise in practice.
 
-Prior to the release of this version 2 of NZGOAL,  four Guidance Notes were released, covering website copyright statements, file formats, procuring copyright works, and databases and datasets. Upon the release of version 2 of NZGOAL, an additional Guidance Note was released which compares the Creative Commons 3.0 New Zealand licences and the 4.0 International licences. An NZGOAL Copyright Guide was also released. These Guidance Notes, the NZGOAL Copyright Guide and any future Guidance Notes can be found on ict.govt.nz.  
+ 11. Prior to the release of this version 2 of NZGOAL,  four Guidance Notes were released, covering website copyright statements, file formats, procuring copyright works, and databases and datasets. Upon the release of version 2 of NZGOAL, an additional Guidance Note was released which compares the Creative Commons 3.0 New Zealand licences and the 4.0 International licences. An NZGOAL Copyright Guide was also released. These Guidance Notes, the NZGOAL Copyright Guide and any future Guidance Notes can be found on ict.govt.nz.  
 
-# Copyright and other legal context
+## Copyright and other legal context
 
 ### Copyright law basics
 
-As noted above, NZGOAL covers both copyright works and non-copyright material. Given that copyright law is fundamental to the need for and operation of NZGOAL, it is appropriate to set out certain key aspects of copyright law at the outset, before launching into the NZGOAL Policy Principles.
+ 12. As noted above, NZGOAL covers both copyright works and non-copyright material. Given that copyright law is fundamental to the need for and operation of NZGOAL, it is appropriate to set out certain key aspects of copyright law at the outset, before launching into the NZGOAL Policy Principles.
 
-Key aspects of copyright law relevant to NZGOAL can be summarised as follows:
+ 13. Key aspects of copyright law relevant to NZGOAL can be summarised as follows:
 
-copyright is a property right that exists in certain original works, regulated by the Copyright Act 1994;
+    (a) copyright is a property right that exists in certain original works, regulated by the Copyright Act 1994;
 
-the categories of qualifying original works are literary works (which can include datasets and databases), dramatic works, musical works, artistic works, sound recordings, films, communication works and typographical arrangements of published editions;
+    (b) the categories of qualifying original works are literary works (which can include datasets and databases), dramatic works, musical works, artistic works, sound recordings, films, communication works and typographical arrangements of published editions;
 
-generally speaking, copyright does not protect mere facts or information;
+    (c) generally speaking, copyright does not protect mere facts or information;
 
-Crown copyright is a species of copyright as set out in section 26 of the Copyright Act;
+    (d) Crown copyright is a species of copyright as set out in section 26 of the Copyright Act;
 
-“Crown” for Copyright Act purposes means Her Majesty the Queen in right of New Zealand and includes a Minister of the Crown, a government department, and an Office of Parliament; it does not include Crown entities or State owned enterprises; their qualifying original works are subject to what one might call regular copyright, not Crown copyright;
+    (e) “Crown” for Copyright Act purposes means Her Majesty the Queen in right of New Zealand and includes a Minister of the Crown, a government department, and an Office of Parliament; it does not include Crown entities or State owned enterprises; their qualifying original works are subject to what one might call regular copyright, not Crown copyright;
 
-while copyright (Crown or regular) exists in most original works created by State services agencies, the Act provides that no copyright exists in certain governmental and Parliamentary materials, such as legislation, court judgments and Parliamentary debates; 
+    (f) while copyright (Crown or regular) exists in most original works created by State services agencies, the Act provides that no copyright exists in certain governmental and Parliamentary materials, such as legislation, court judgments and Parliamentary debates; 
 
-it is important to distinguish between copyright in original works and the licensing of works in which copyright exists, as they are conceptually distinct; when, for example, a department licences a copyright work that the department owns, the department retains its copyright ownership but grants permissions to do things with the work (such as copy it) which would otherwise be prohibited; 
+    (g) it is important to distinguish between copyright in original works and the licensing of works in which copyright exists, as they are conceptually distinct; when, for example, a department licences a copyright work that the department owns, the department retains its copyright ownership but grants permissions to do things with the work (such as copy it) which would otherwise be prohibited; 
 
-unless entitled to do so by a copyright licence or statutory provision, a person infringes copyright in a work when he or she does any of a number of “restricted acts”, the most common of which is copying the work or a substantial part of it; and
+    (h) unless entitled to do so by a copyright licence or statutory provision, a person infringes copyright in a work when he or she does any of a number of “restricted acts”, the most common of which is copying the work or a substantial part of it; and
 
-in certain specific circumstances, those who deal in or publish copyright works need to respect authors’ so-called “moral rights” which, as explained in more detail in paragraphs 46-48 below and the NZGOAL Copyright Guide, are a set of statutory rights in the Copyright Act that are personal to the authors or other creators of original works.
+    (i) in certain specific circumstances, those who deal in or publish copyright works need to respect authors’ so-called “moral rights” which, as explained in more detail in paragraphs 46-48 below and the NZGOAL Copyright Guide, are a set of statutory rights in the Copyright Act that are personal to the authors or other creators of original works.
 
-It is important to emphasise at the outset that not all government held or created material qualifies for copyright protection. An informational or other product, work or dataset only qualifies if, first, it falls within one of the categories mentioned in paragraph 13(b) above, and second, the period of copyright protection that applies to it has not expired. To assume that all information and data held by State Services agencies is protected by copyright can lead to error. Care needs to be taken when talking about an agency’s “copyright material”. 
+ 14. It is important to emphasise at the outset that not all government held or created material qualifies for copyright protection. An informational or other product, work or dataset only qualifies if, first, it falls within one of the categories mentioned in paragraph 13(b) above, and second, the period of copyright protection that applies to it has not expired. To assume that all information and data held by State Services agencies is protected by copyright can lead to error. Care needs to be taken when talking about an agency’s “copyright material”. 
 
 ### Information laws
 
-Other relevant legal context includes the Official Information Act 1982, the Public Records Act 2005 and the Privacy Act 1993. These Acts are of general application to State Services agencies. A legal review has revealed no inconsistency between the use of Creative Commons licences and this legislation. 
+ 15. Other relevant legal context includes the Official Information Act 1982, the Public Records Act 2005 and the Privacy Act 1993. These Acts are of general application to State Services agencies. A legal review has revealed no inconsistency between the use of Creative Commons licences and this legislation. 
 
-At the same time, there are two ways in which NZGOAL can be seen to intersect with such laws that are worth noting. 
+ 16. At the same time, there are two ways in which NZGOAL can be seen to intersect with such laws that are worth noting. 
 
-First, copyright works released to a person following a request under the Official Information Act do not lose their copyright protection by virtue of being so released nor does the fact of release entitle the recipient to use the works in a way which would infringe copyright. The recipient needs a licence to re-use the works in any way which would infringe copyright in the works. NZGOAL provides a framework within which licences can, at an agency’s discretion, be granted, either proactively or upon request. Indeed, to some extent NZGOAL can be seen as a logical extension of the principle of availability in section 5 of the Act. 
+ 17. First, copyright works released to a person following a request under the Official Information Act do not lose their copyright protection by virtue of being so released nor does the fact of release entitle the recipient to use the works in a way which would infringe copyright. The recipient needs a licence to re-use the works in any way which would infringe copyright in the works. NZGOAL provides a framework within which licences can, at an agency’s discretion, be granted, either proactively or upon request. Indeed, to some extent NZGOAL can be seen as a logical extension of the principle of availability in section 5 of the Act. 
 
-Second, NZGOAL does not extend to personal information. It is for this reason that no issues arise under the Privacy Act. Agencies should, nevertheless, be mindful of the potential for seemingly anonymised datasets, when combined, to reveal personal information, an issue which is addressed within the NZGOAL Policy Principles at paragraph 29 below. 
+ 18. Second, NZGOAL does not extend to personal information. It is for this reason that no issues arise under the Privacy Act. Agencies should, nevertheless, be mindful of the potential for seemingly anonymised datasets, when combined, to reveal personal information, an issue which is addressed within the NZGOAL Policy Principles at paragraph 29 below. 
 
-1. 
-# NZGOAL Policy Principles
+## NZGOAL Policy Principles
 
 ### Introduction
 
-State Services agencies are strongly encouraged to apply the following principles in relation to:
+ 19. State Services agencies are strongly encouraged to apply the following principles in relation to:
 
-licensing their copyright works for re-use; and
+    (a) licensing their copyright works for re-use; and
 
-enabling public access to and re-use of their non-copyright material.
+    (b) enabling public access to and re-use of their non-copyright material.
 
-The licences and tools referred to in this section are explained in the next section on NZGOAL licences and tools.
+ 20. The licences and tools referred to in this section are explained in the next section on NZGOAL licences and tools.
 
 ### Open access to copyright works with Creative Commons Attribution (BY) licence as default
 
-Unless a restriction in paragraph 24 applies, State Services agencies should make their copyright works which are or may be of interest or use to people available for re-use on the most open of licensing terms available within NZGOAL (the **Open Licensing** **Principle**). To the greatest extent practicable, such works should be made available online. The most open of licensing terms available within NZGOAL is the Creative Commons Attribution (BY) licence.
+ 21. Unless a restriction in paragraph 24 applies, State Services agencies should make their copyright works which are or may be of interest or use to people available for re-use on the most open of licensing terms available within NZGOAL (the **Open Licensing Principle**). To the greatest extent practicable, such works should be made available online. The most open of licensing terms available within NZGOAL is the Creative Commons Attribution (BY) licence.
 
 ### Ensuring copyright ownership or right to sub-license 
 
-Agencies should only license a copyright work for re-use by others where they:
+ 22. Agencies should only license a copyright work for re-use by others where they:
 
-own the copyright in the relevant work and have not exclusively licensed it to a third party; or
+    (a) own the copyright in the relevant work and have not exclusively licensed it to a third party; or
 
-to the extent they do not own the copyright, either: 
+    (b) to the extent they do not own the copyright, either: 
 
-can first obtain an assignment of copyright from the relevant copyright owner(s); or 
+        (i) can first obtain an assignment of copyright from the relevant copyright owner(s); or 
 
-have or can first obtain a right to sub-license the work (or relevant elements of the work) on the terms of their preferred licence (such as a Creative Commons licence) from the relevant copyright owner(s). 
+        (ii) have or can first obtain a right to sub-license the work (or relevant elements of the work) on the terms of their preferred licence (such as a Creative Commons licence) from the relevant copyright owner(s). 
 
 ### Open access to non-copyright material
 
-Unless a restriction in paragraph 24 applies, State Services agencies should:
+ 23. Unless a restriction in paragraph 24 applies, State Services agencies should:
 
-provide online public access to non-copyright material that is or may be of interest or use to people; 
+    (a) provide online public access to non-copyright material that is or may be of interest or use to people; 
 
-allow them to copy and re-use such material without restriction; and
+    (b) allow them to copy and re-use such material without restriction; and
 
-include, at the point of release (and in the released material itself if practicable), the “no known rights” statement set out at paragraph 80 below or a statement in broadly equivalent terms
+    (c) include, at the point of release (and in the released material itself if practicable), the “no known rights” statement set out at paragraph 80 below or a statement in broadly equivalent terms
+        
+        (the **Open Access Principle**).
 
-1. (the **Open Access Principle**).
 ### Restrictions
 
-Neither the Open Licensing Principle nor the Open Access Principle applies where licensing a copyright work with the Creative Commons Attribution (BY) licence (in the case of copyright works) or providing open access to and allowing re-use of other material (in the case of non-copyright material) would:
+ 24. Neither the Open Licensing Principle nor the Open Access Principle applies where licensing a copyright work with the Creative Commons Attribution (BY) licence (in the case of copyright works) or providing open access to and allowing re-use of other material (in the case of non-copyright material) would:
 
-be contrary to legislation, court order or specific government policy;
+    (a) be contrary to legislation, court order or specific government policy;
 
-constitute a breach of contract, breach of confidence, breach of privacy, disclosure of a trade secret or other actionable wrong; 
+    (b) constitute a breach of contract, breach of confidence, breach of privacy, disclosure of a trade secret or other actionable wrong; 
 
-be contrary to an agency’s own legitimate commercial interests or business model (such as Standards New Zealand’s charging for standards);
+    (c) be contrary to an agency’s own legitimate commercial interests or business model (such as Standards New Zealand’s charging for standards);
 
-result in the publication of a patentable invention for which the agency proposes or may wish to apply for a patent;
+    (d) result in the publication of a patentable invention for which the agency proposes or may wish to apply for a patent;
 
-be contrary to the public interest, where it exists, in having a single, authoritative and non-adapted version of a specific data source;
+    (e) be contrary to the public interest, where it exists, in having a single, authoritative and non-adapted version of a specific data source;
 
-result in the release of an incomplete work or incomplete material where the agency considers, acting reasonably, that:
+    (f) result in the release of an incomplete work or incomplete material where the agency considers, acting reasonably, that:
 
-such release would be:
+        (i) such release would be:
 
---- materially misleading; or
---- likely to cause or contribute to material error on the part of recipients or licensees; and
+            - materially misleading; or
+            - likely to cause or contribute to material error on the part of recipients or licensees; and
 
-such risks could not be adequately mitigated by the use of disclaimers or other statements at the point of release and/or within the work or material regarding the incompleteness of the work or material;
+        (ii) such risks could not be adequately mitigated by the use of disclaimers or other statements at the point of release and/or within the work or material regarding the incompleteness of the work or material;
 
-threaten the control over and/or integrity of Māori or other traditional knowledge or other culturally sensitive material;
+    (g) threaten the control over and/or integrity of Māori or other traditional knowledge or other culturally sensitive material;
 
-jeopardise the economic or other potential to Māori or other indigenous groups of Māori or other traditional knowledge or other culturally sensitive material; or
+    (h) jeopardise the economic or other potential to Māori or other indigenous groups of Māori or other traditional knowledge or other culturally sensitive material; or
 
-otherwise conflict with the existence of a good reason under sections 6, 7 or 9 of the Official Information Act for withholding release of the work or material if the work or material were requested under that Act.
+    (i) otherwise conflict with the existence of a good reason under sections 6, 7 or 9 of the Official Information Act for withholding release of the work or material if the work or material were requested under that Act.
 
 ### Other Creative Commons licensing or restrictive licensing
 
